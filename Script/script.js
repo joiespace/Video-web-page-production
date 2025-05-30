@@ -1,4 +1,4 @@
-window.addEventListener('DOMContentLoaded', function() {
+window。addEventListener('DOMContentLoaded', function() {
     // 确保jQuery加载完成后再执行轮播图代码
     var checkJQuery = setInterval(function() {
         if (window.jQuery) {
